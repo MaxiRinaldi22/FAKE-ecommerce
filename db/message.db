@@ -1,0 +1,196 @@
+[
+  {
+    "id": 96750092396,
+    "firstName": "Maxi",
+    "lastName": "Rinaldi",
+    "document": "55745459",
+    "address": [
+      {
+        "addres": "Granja Ferrerio",
+        "city": "Maldonado",
+        "department": "Maldonado",
+        "notes": ""
+      }
+    ],
+    "email": "mrinaldi2204@gmail.com",
+    "phone": "092024300",
+    "typeOfShipping": "localPickup",
+    "items": [
+      {
+        "id": "Y4RM3JCB",
+        "unit_price": 0.99,
+        "quantity": 1,
+        "title": "Green Chili Pepper",
+        "currency_id": "USD"
+      }
+    ]
+  },
+  {
+    "id": 96750288674,
+    "firstName": "Maxi",
+    "lastName": "Rinaldi",
+    "document": "55745459",
+    "address": [
+      {
+        "addres": "Granja Ferrerio",
+        "apartment": "Casa blanca con porton gris",
+        "city": "Maldonado",
+        "department": "Montevideo",
+        "notes": "de 12 - 17 hrs"
+      }
+    ],
+    "email": "mrinaldi2204@gmail.com",
+    "phone": "092024300",
+    "typeOfShipping": "localPickup",
+    "items": [
+      {
+        "id": "Y4RM3JCB",
+        "unit_price": 0.99,
+        "quantity": 1,
+        "title": "Green Chili Pepper",
+        "currency_id": "USD"
+      }
+    ]
+  },
+  {
+    "id": 96751230012,
+    "firstName": "Fede",
+    "lastName": "Rinaldi",
+    "document": "55745459",
+    "address": [
+      {
+        "addres": "Usg",
+        "apartment": "Local gris con portones rojos",
+        "city": "Maldonado",
+        "department": "Maldonado",
+        "notes": ""
+      }
+    ],
+    "email": "mrinaldi2204@gmail.com",
+    "phone": "092024300",
+    "typeOfShipping": "flexMontevideo",
+    "items": [
+      {
+        "id": "Y4RM3JCB",
+        "unit_price": 0.99,
+        "quantity": 1,
+        "title": "Green Chili Pepper",
+        "currency_id": "USD"
+      }
+    ]
+  },
+  {
+    "id": 96402700639,
+    "firstName": "Fede",
+    "lastName": "Rinaldi",
+    "document": "55745459",
+    "address": [
+      {
+        "addres": "Usg",
+        "apartment": "Local gris con portones rojos",
+        "city": "Maldonado",
+        "department": "Maldonado",
+        "notes": "Horario de 08 - 13 a 13:30 - 18"
+      }
+    ],
+    "email": "mrinaldi2204@gmail.com",
+    "phone": "092024300",
+    "typeOfShipping": "localPickup",
+    "items": [
+      {
+        "id": "Y4RM3JCB",
+        "unit_price": 0.99,
+        "quantity": 1,
+        "title": "Green Chili Pepper",
+        "currency_id": "USD"
+      }
+    ]
+  },
+  {
+    "id": 96397842139,
+    "firstName": "Maxi",
+    "lastName": "Rinaldi",
+    "document": "55745459",
+    "address": [
+      {
+        "addres": "nop",
+        "city": "carlos",
+        "department": "Montevideo",
+        "notes": ""
+      }
+    ],
+    "email": "mrinaldi2204@gmail.com",
+    "phone": "092024300",
+    "typeOfShipping": "localPickup",
+    "items": [
+      {
+        "id": "Y4RM3JCB",
+        "unit_price": 0.99,
+        "quantity": 1,
+        "title": "Green Chili Pepper",
+        "currency_id": "USD"
+      }
+    ]
+  },
+  {
+    "id": 96403566115,
+    "firstName": "Mariana",
+    "lastName": "Gonzalez",
+    "document": "33558236",
+    "address": [
+      {
+        "addres": "Granja Ferrerio",
+        "apartment": "Casa blanca con porton gris",
+        "city": "Maldonado",
+        "department": "Maldonado",
+        "notes": ""
+      }
+    ],
+    "email": "frmarigonzalez@hotmail.com",
+    "phone": "099112107",
+    "typeOfShipping": "flexMontevideo",
+    "items": [
+      {
+        "id": "6KGF2K6Z",
+        "unit_price": 1.49,
+        "quantity": 1,
+        "title": "Cucumber",
+        "currency_id": "USD"
+      },
+      {
+        "id": "Q6ZP1UY8",
+        "unit_price": 4.99,
+        "quantity": 1,
+        "title": "Cooking Oil",
+        "currency_id": "USD"
+      }
+    ]
+  },
+  {
+    "id": 96752403588,
+    "firstName": "Fede",
+    "lastName": "Rinaldi",
+    "document": "55745459",
+    "address": [
+      {
+        "addres": "Usg",
+        "apartment": "Local gris con portones rojos",
+        "city": "Maldonado",
+        "department": "Maldonado",
+        "notes": ""
+      }
+    ],
+    "email": "mrinaldi2204@gmail.com",
+    "phone": "092024300",
+    "typeOfShipping": "localPickup",
+    "items": [
+      {
+        "id": "Y4RM3JCB",
+        "unit_price": 0.99,
+        "quantity": 1,
+        "title": "Green Chili Pepper",
+        "currency_id": "USD"
+      }
+    ]
+  }
+]
